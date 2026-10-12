@@ -11,6 +11,11 @@ Last updated: 2026-10-12. Raw data for every row, with sources: [`racquet_specs_
   - TW never publishes it, and **the Defyer isn't in TWU**, so the stock Defyer has no published twistweight.
   - "—" means no published figure exists for the current version.
 - **My measured numbers** come from a different machine to TWU's. Treat differences under about 0.3 twistweight or 3 swingweight as noise.
+- **Different basis.** My numbers are as played (strings, overgrip and dampener), while published specs are strung only. I'm assuming that, as TW doesn't state it.
+  - Overgrip: about 5 g, roughly 0 swingweight and 0 twistweight.
+  - Dampener: 2–4 g, about +2 swingweight, roughly 0 twistweight.
+  - **To compare like for like, add about 8 g and about +2 swingweight to any published row.** Twistweight compares directly.
+  - My bare-equivalent Defyer is about 322 g / 320, which matches TW's stock 323 g / 319.
 - **Versions** are the current ones on sale as of October 2026.
 - **Missing from TWU:** the 2025 Dunlop SX 300 line, CX 200 Tour 2024, Radical MP 2025, Extreme MP 2026, TF40 2nd gen and Defyer.
   - Their previous versions measured: SX 300 Tour 14.7, SX 300 14.9, Radical MP 2023 14.5, Extreme MP 2022 14.3, TF40 305 v1 14.4.
@@ -32,7 +37,7 @@ Last updated: 2026-10-12. Raw data for every row, with sources: [`racquet_specs_
 | Head Speed Tour (2026) | 97 | 16x19 | 323 | 6 | 325 | 14.2 | 61 | 23 | Low-Med |
 | Yonex VCORE 98 (2026, 8th gen) | 98 | 16x19 | 323 | 6 | 321 | 14.2 | 63 | 23/23.5/22 | Low-Med |
 | Dunlop CX 200 (2024) | 98 | 16x19 | 323 (TWE 320) | 7 | 314 (TWE 308) | 14.0 | 64 | 21.5 | — |
-| **My Defyer 98 Pro (measured, dampener, no lead)** | 98 | 16x20 | 330 | ? | 322 | **13.8** | 64 | 22/23.5/22 | Low-Med |
+| **My Defyer 98 Pro (as played; ≈ bare 322 g / 320)** | 98 | 16x20 | 330 | ? | 322 | **13.8** | 64 | 22/23.5/22 | Low-Med |
 | Prince ATS Textreme Tour 98 | 98 | 16x19 | 323 | 6 | 325 | 13.6 | 62 | 22/23/20 | Low-Med |
 | Volkl C10 EVO | 98 | 16x19 | 323 | 4 | 319 | 13.5 | 63 | 20 | Low |
 | Wilson Blade 98 16x19 (v10) | 98 | 16x19 | 323 | 4 | 323 (TW 322) | 13.5 | 61 | 21.5/21.5/20.5 | Low-Med |
@@ -42,7 +47,7 @@ Last updated: 2026-10-12. Raw data for every row, with sources: [`racquet_specs_
 | Head Radical MP (2025) | 98 | 16x19 | 318 | 4 | 323 | — | 66 | 20/23/21 | Low-Med |
 | Tecnifibre TF40 305 16x19 (2nd gen) | 98 | 16x19 | 320 | 3 | 320 | — | 64 | 22 | Low |
 
-My own Pro Staff 97 v14 measured 339 g with a swingweight of 326, against TWU's 332 g / 332.
+My own Pro Staff 97 v14 measured 339 g / 326 as played, about 331 g / 324 bare. That's against TWU's 332 g / 332 and TW's page figure of 325 swingweight.
 
 ## 99–100 sq in racquets, for context
 
@@ -75,14 +80,14 @@ Typical figures below are for current 97–100 sq in frames of 315 g or more in 
 | Swingweight | 324 | 320–328 |
 | Twistweight | 14.6 | 14.3–15.1 |
 
-**Weight: mine is heavy for the class.**
-- Almost every current 98 is sold at 323 g strung. Mine is 330 g, probably because the extra weight sits in the handle.
-- Only the RF 01 Pro (337 g) and Pro Staff 97 v14 (332 g) are heavier.
+**Weight: typical.**
+- Almost every current 98 is sold at 323 g strung. Mine is about 322 g bare (330 as played), right at the class norm.
+- Heavier: RF 01 Pro (337 g) and Pro Staff 97 v14 (332 g).
 
-**Swingweight: middle of the pack.**
-- Stock Defyer: 319. Mine: 322.
+**Swingweight: low end of typical.**
+- Stock Defyer: 319. Mine: about 320 bare (322 as played). That's about the 25th percentile of the dataset.
 - The current 98s run from 314 (CX 200) to 331 (RF 01 Pro).
-- Close to mine: Pure Aero 98 (322), FX 500 Tour (322), VCORE 98 (321), SX 300 Tour (321), EZONE 98 (320).
+- Close to mine: EZONE 98 (320), VCORE 98 (321), SX 300 Tour (321), Pure Aero 98 (322), FX 500 Tour (322). These are 0–2 above mine on a like-for-like basis.
 - Clearly heavier-swinging, i.e. more plow-through: Pure Strike 98 (330), Gravity Tour (328), Whiteout 305 (328), Speed Tour (325).
 
 **Twistweight: on the low side.** Mine (13.8) beats only 4 of the 17 current 97–98s with a published figure.
@@ -104,15 +109,17 @@ Typical figures below are for current 97–100 sq in frames of 315 g or more in 
 
 ## Head-to-head with the frames I asked about
 
+All columns below are **as played**: published specs + about 8 g and about +2 swingweight for an overgrip and dampener. Twistweight is unchanged.
+
 | | My Defyer | Pure Aero 98 | VCORE 98 | Dunlop CX 200 | Dunlop SX 300 Tour | Dunlop FX 500 Tour |
 |---|---|---|---|---|---|---|
 | Pattern | 16x20 | 16x20 | 16x19 | 16x19 | 16x19 | 16x19 |
-| Strung weight | 330 g | 323 g | 323 g | 323 g | 323 g | 323 g |
-| Swingweight | 322 | 322 | 321 | 314 | 321 | 322 |
+| Weight, as played | 330 g (measured) | ≈331 g | ≈331 g | ≈331 g | ≈331 g | ≈331 g |
+| Swingweight, as played | 322 (measured) | ≈324 | ≈323 | ≈316 | ≈323 | ≈324 |
 | Twistweight | 13.8 | 15.3 | 14.2 | 14.0 | — (prev gen 14.7) | 15.6 |
 | Flex (RA) | 64 | 66 | 63 | 64 | 69 | 65 |
 
-- **Pure Aero 98:** the closest match. Same 16x20 98-inch head and the same swingweight, but much more stable (+1.5 twistweight) and stiffer (66). Tennisnerd says it tends to launch higher than the Defyer.
+- **Pure Aero 98:** the closest match. Same 16x20 98-inch head and almost the same swingweight (≈2 higher like for like), but much more stable (+1.5 twistweight) and stiffer (66). Tennisnerd says it tends to launch higher than the Defyer.
 - **VCORE 98:** very similar swingweight and twistweight to my Defyer, but softer and 16x19, with a more open bed for more spin. My own VCORE (338 g, swingweight 320) felt short on plow-through.
 - **Dunlop CX 200:** the lowest swingweight of the group, with similar twistweight. It suits a lighter, more manoeuvrable control frame, not a heavier one.
 - **Dunlop SX 300 Tour:** the stiffest (69) of these frames. A poor fit for a sore wrist.
@@ -127,11 +134,11 @@ Typical figures below are for current 97–100 sq in frames of 315 g or more in 
   - That clears my 325+ plow-through threshold, and stays under my Pro Staff's 15.0 twistweight.
 - **If I ever switch frames, the soft 97–98s near 14.5 twistweight are the best fit:**
 
-| Frame | Twistweight | Flex (RA) | Swingweight |
+| Frame | Twistweight | Flex (RA) | Swingweight, published → as played |
 |---|---|---|---|
-| Head Speed Tour | 14.2 | 61 | 325 |
-| Yonex Percept 97 | 14.6 | 60 | 315, needs lead for plow-through |
-| Solinco Whiteout 305 | 14.7 | 65 | 328 |
+| Head Speed Tour | 14.2 | 61 | 325 → ≈327 |
+| Yonex Percept 97 | 14.6 | 60 | 315 → ≈317, needs lead for plow-through |
+| Solinco Whiteout 305 | 14.7 | 65 | 328 → ≈330 |
 
   - The Gravity Tour (15.5) and Pure Strike 98 (15.6) are above my preferred twistweight.
 - These are spec-sheet comparisons only. Demo before buying.

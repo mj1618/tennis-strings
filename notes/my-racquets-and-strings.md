@@ -17,7 +17,12 @@ Last updated: 2026-10-12
 
 ## What I've learned about racquet specs
 
-My measured specs (all strung):
+My measured specs (all as played: strung, with overgrip and dampener):
+
+**Measurement basis: my numbers are "as played", with strings, overgrip and dampener all fitted.** Published specs (TW/TWU) are strung but without an overgrip or dampener; I'm assuming that, as TW doesn't state it. To compare like for like:
+- Overgrip: about 5–5.5 g (Wilson Pro Overgrip about 4.9 g; Tourna Grip XL 5.5 g). It sits on the handle, so it adds roughly 0 swingweight and 0 twistweight.
+- Dampener: 2–4 g (TW). TW and Tennisnerd both put it at about +2 swingweight. It sits on the centre line, so it adds about 0 twistweight.
+- So **published spec + about 8 g and about +2 swingweight ≈ my as-played number**. Twistweight compares directly.
 
 | Frame | Weight | Swingweight | Verdict |
 |---|---|---|---|
@@ -25,17 +30,22 @@ My measured specs (all strung):
 | Wilson Pro Staff 97 v14 | 339 g | 326 | Liked it; plow-through was enough. Wrist pain, though |
 | Wilson Defyer 98 Pro, no lead | 330 g | 322 | Felt really nice on the wall; no match yet |
 
-- **Plow-through comes mostly from swingweight.** The VCORE and the Pro Staff weighed almost the same, but only the 326-swingweight Pro Staff felt like enough. So **my plow-through threshold is around 325+ swingweight**.
+Bare-equivalent estimates (without overgrip and dampener), for comparing with published specs:
+- Defyer: about 322 g / 320. This matches TW's 323 g / 319, so my frame is a normal one.
+- Pro Staff: about 331 g / 324. TW lists 332 g, with swingweight 332 (TWU) or 325 (TW page).
+- VCORE: about 330 g / 318.
+
+- **Plow-through comes mostly from swingweight.** The VCORE and the Pro Staff weighed almost the same, but only the 326-swingweight Pro Staff felt like enough. So **my plow-through threshold is around 325+ swingweight as played**, about 323 on a published-spec basis.
 - The Defyer at 322 is closer to the VCORE than to the Pro Staff, which is why the lead goes in.
 
 ## How my Defyer compares with typical player racquets
 
-Comparison set: TWU Racquet Comparison Tool, current frames, 97–100 sq in, 315 g and over (n=187). The percentiles are my own arithmetic on TWU's listed specs, not a published statistic.
+Comparison set: TWU Racquet Comparison Tool, current frames, 97–100 sq in, 315 g and over (n=187). The percentiles are my own arithmetic on TWU's listed specs, not a published statistic. My numbers are converted to bare-equivalent (as played − about 8 g and − about 2 swingweight) so they're on the same basis.
 
 | Spec | Typical (middle 50%) | Median | My Defyer (no lead) | Where it sits |
 |---|---|---|---|---|
-| Strung weight | 318–326 g | 323 g | 330 g | about 84th percentile: heavy |
-| Swingweight | 320–328 | 324 | 322 | about 35th percentile: typical |
+| Strung weight | 318–326 g | 323 g | about 322 g (330 as played) | about 40th percentile: typical |
+| Swingweight | 320–328 | 324 | about 320 (322 as played) | about 25th percentile: low end of typical |
 | Twistweight | 14.3–15.1 | 14.6 | **13.8** | **about 7th percentile: low** |
 
 - **Expert guidance on swingweight (strung):**
@@ -43,8 +53,8 @@ Comparison set: TWU Racquet Comparison Tool, current frames, 97–100 sq in, 315
   - Roman Prokes: today's sweet spot is 320–330.
   - Tour pros are typically 340–360+.
 - **What it means:**
-  - Swingweight is normal for an intermediate-to-advanced player.
-  - The extra static weight is probably in the handle, since weight went up much more than swingweight.
+  - Weight is normal, and swingweight is at the low end of normal for an intermediate-to-advanced player.
+  - My earlier guess that extra weight sat in the handle was wrong. The overgrip and dampener explain the gap from TW's spec.
   - **Twistweight is low.** That means less stability on off-centre hits, which is bad news for a sore wrist.
 - **Stock twistweight (TWU) for my other frames:**
   - Pro Staff 97 v14: **15.0**
