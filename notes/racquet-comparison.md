@@ -174,3 +174,36 @@ All columns below are **as played**: published specs + about 8 g and about +2 sw
 
   - The Gravity Tour (15.5) and Pure Strike 98 (15.6) are above my preferred twistweight.
 - These are spec-sheet comparisons only. Demo before buying.
+
+## Character profile: what my Defyer is built for, and who would struggle with it
+
+This combines my measured specs, TW/TWU published specs and the reviews collected earlier. The reasoning from specs to playing style is inference, not tested.
+
+**What sets it apart**
+- **It's a 16x20 control frame, not a spin or power frame.** The only other current 16x20 98s are the Pure Aero 98 and Pure Drive 98, and both are stiffer (66–69) and more stable (15.3–15.4 twistweight).
+  - TW calls the Defyer's power "Low-Medium" with a "slightly lower launch angle".
+  - Rackets & Runners says it "won't blow you away with spin".
+  - A TW playtester felt the crosses were spaced more like a 16x19.
+- **It's quick and whippy.** Swingweight is at the low end of typical (about 320 like for like) and twistweight is low (13.8, about the 7th percentile).
+  - Rackets & Runners called it "ridiculously fast", even after adding lead.
+  - By the numbers, its stability is closest to thin-beam control frames like the Blade 98 v10, C10 EVO and Prince Tour 98 (13.4–13.6). Its beam, though, is a thicker 22–23.5 mm.
+- **Its nearest twin on paper is the VCORE 98**: swingweight 321, twistweight 14.2, flex 63. The difference is the Defyer's denser 16x20 pattern and lower launch.
+- **It's mid-flex (64) and reviewers call it comfortable.** Rackets & Runners measured 61 RA strung. It still feels "firm/connected", with a small sweet spot before customisation.
+- **It's a pro-stock design.** It descends from the "Project P/Python" frame used by Khachanov, Rune and Korda, who play it heavily customised. Stock, it's a platform built to be leaded up.
+
+**Who it suits**
+- **Players who generate their own pace and spin** with fast, full swings, and want the ball kept down and predictable.
+- **Players who customise.** It responds well to lead at 3 and 9, which raises stability without killing the racquet-head speed.
+- **Players who like a quick racquet** at the net and on returns, and who make clean contact.
+
+**Who would struggle**
+- **Players who need free power or have compact or slower swings.** Low-medium power, a lower launch and a fairly dense bed mean balls land short or in the net.
+- **Players who rely on the racquet for spin and height**, such as heavy topspin or moonball styles used to an Aero or VCORE. The bed and launch work against them.
+- **Players with inconsistent contact.** Low twistweight and a small stock sweet spot punish off-centre hits; the head twists and the ball goes off line.
+- **Players facing big hitters, or who block returns.** With low swingweight and twistweight it can get pushed around. TW's tester found it less stable than the Pro Staff 97 Classic.
+- **Players with wrist or arm problems who hit off-centre a lot.** The twisting on mishits loads the wrist, even though the frame flex itself is moderate.
+
+**For me specifically**
+- **Good fit:** I swing fast, liked the much heavier Pro Staff, and get spin help from the string (O‑Toro Tour).
+- **Watch-outs:** low twistweight with my wrist history, and stock swingweight just under my 325+ plow-through threshold.
+  - The fix for both is lead at 3 and 9, about 2–2.5 g each side, giving roughly 14.4–14.6 twistweight and 328–329 swingweight.
