@@ -49,6 +49,38 @@ Last updated: 2026-10-12. Raw data for every row, with sources: [`racquet_specs_
 
 My own Pro Staff 97 v14 measured 339 g / 326 as played, about 331 g / 324 bare. That's against TWU's 332 g / 332 and TW's page figure of 325 swingweight.
 
+## 97–98 sq in racquets "as played", sorted by twistweight
+
+- **How the published rows are converted:** about 8 g and about +2 swingweight added to each published spec, for an overgrip (about 5 g) and a dampener (2–4 g). Twistweight is unchanged.
+- **These are estimates.** Real overgrips, dampeners and frames vary by a few grams and points.
+- **Pro Staff check:** my own Pro Staff measured 339 g / 326 as played. The estimate for it below (≈340 / 334) comes from TWU's 332 swingweight; TW's own page lists 325.
+
+| Racquet | Pattern | Weight as played | Swingweight as played | Twistweight | Flex (RA) | vs my Defyer (weight / swingweight / twistweight) |
+|---|---|---|---|---|---|---|
+| Wilson RF 01 Pro | 16x19 | ≈345 g | ≈333 | 16.0 | 67 | +15 g / +11 / +2.2 |
+| Babolat Pure Strike 98 16x19 | 16x19 | ≈331 g | ≈332 | 15.6 | 64 | +1 g / +10 / +1.8 |
+| Dunlop FX 500 Tour (2025) | 16x19 | ≈331 g | ≈324 | 15.6 | 65 | +1 g / +2 / +1.8 |
+| Head Gravity Tour (2025) | 16x19 | ≈331 g | ≈330 | 15.5 | 59 | +1 g / +8 / +1.7 |
+| Babolat Pure Drive 98 (2025) | 16x20 | ≈331 g | ≈325 | 15.4 | 67 | +1 g / +3 / +1.6 |
+| Babolat Pure Aero 98 (2026) | 16x20 | ≈331 g | ≈324 | 15.3 | 66 | +1 g / +2 / +1.5 |
+| Wilson Pro Staff 97 v14 (97) | 16x19 | ≈340 g | ≈334 | 15.0 | 66 | +10 g / +12 / +1.2 |
+| Yonex EZONE 98 (2025) | 16x19 | ≈331 g | ≈322 | 15.0 | 63 | +1 g / +0 / +1.2 |
+| Solinco Whiteout 305 16x19 (v2) | 16x19 | ≈331 g | ≈330 | 14.7 | 65 | +1 g / +8 / +0.9 |
+| *My Defyer + 2 g at each of 3 and 9 (estimate)* | 16x20 | ≈334 g | ≈328 | ≈14.4 | 64 | +4 g / +6 / +0.6 |
+| Yonex Percept 97 (97) | 16x19 | ≈334 g | ≈317 | 14.6 | 60 | +4 g / -5 / +0.8 |
+| Head Speed Tour (2026, 97) | 16x19 | ≈331 g | ≈327 | 14.2 | 61 | +1 g / +5 / +0.4 |
+| Yonex VCORE 98 (2026) | 16x19 | ≈331 g | ≈323 | 14.2 | 63 | +1 g / +1 / +0.4 |
+| Dunlop CX 200 (2024) | 16x19 | ≈331 g | ≈316 | 14.0 | 64 | +1 g / -6 / +0.2 |
+| **My Defyer 98 Pro (measured)** | 16x20 | 330 g | 322 | **13.8** | 64 | — |
+| Prince ATS Textreme Tour 98 | 16x19 | ≈331 g | ≈327 | 13.6 | 62 | +1 g / +5 / -0.2 |
+| Volkl C10 EVO | 16x19 | ≈331 g | ≈321 | 13.5 | 63 | +1 g / -1 / -0.3 |
+| Wilson Blade 98 16x19 (v10) | 16x19 | ≈331 g | ≈325 | 13.5 | 61 | +1 g / +3 / -0.3 |
+| Prince Tour 98 (2026) | 16x19 | ≈331 g | ≈325 | 13.4 | 64 | +1 g / +3 / -0.4 |
+| Wilson Defyer 98 Pro (stock) | 16x20 | ≈331 g | ≈321 | —  | 64 | +1 g / -1 / ? |
+| Dunlop SX 300 Tour (2025) | 16x19 | ≈331 g | ≈323 | — (prev gen 14.7) | 69 | +1 g / +1 / ? |
+| Head Radical MP (2025) | 16x19 | ≈326 g | ≈325 | — (2023: 14.5) | 66 | -4 g / +3 / ? |
+| Tecnifibre TF40 305 (2nd gen) | 16x19 | ≈328 g | ≈322 | — (v1: 14.4) | 64 | -2 g / +0 / ? |
+
 ## 99–100 sq in racquets, for context
 
 | Racquet | Head | Pattern | Strung g | Pts HL | Swingweight | **Twistweight** | Flex (RA) |
