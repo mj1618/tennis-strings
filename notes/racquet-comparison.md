@@ -207,3 +207,42 @@ This combines my measured specs, TW/TWU published specs and the reviews collecte
 - **Good fit:** I swing fast, liked the much heavier Pro Staff, and get spin help from the string (O‑Toro Tour).
 - **Watch-outs:** low twistweight with my wrist history, and stock swingweight just under my 325+ plow-through threshold.
   - The fix for both is lead at 3 and 9, about 2–2.5 g each side, giving roughly 14.4–14.6 twistweight and 328–329 swingweight.
+
+## Defyer 98 Pro vs Babolat AeroPro Drive (the classic Nadal-era frame)
+
+The AeroPro Drive (APD) was renamed Pure Aero in 2016. Its main versions are Cortex (about 2007), GT (2010) and 2013.
+- **Sources:** TWU racquet database (strung specs plus twistweight), and TW's AeroPro Drive review page, https://www.tennis-warehouse.com/learning_center/racquet_reviews/apd13review.html
+- **Unresolved discrepancies:**
+  - TWU's older APD entries disagree with TW's review page by up to 10 g and 10 swingweight.
+  - The review page's quotes refer to the "AeroPro Drive GT".
+
+| | **My Defyer (as played)** | APD 2013 (TWU) | APD GT (TWU) | APD Cortex (TWU) | APD (TW review page) |
+|---|---|---|---|---|---|
+| Head / pattern | 98 / 16x20 | 100 / 16x19 | 100 / 16x19 | 100 / 16x19 | 100 / 16x19 |
+| Strung weight | 330 g (≈322 bare) | 316 g | 310 g | 315 g | 320 g |
+| Balance | ? (stock 6 pts HL) | 32.7 cm | 33.0 cm | 33.0 cm | 33 cm, 4 pts HL |
+| Swingweight | 322 (≈320 bare) | 306 | 316 | 328 | 316 |
+| Twistweight | 13.8 | 14.1 | 14.1 | 12.7 | — |
+| Flex (RA) | 64 (61 measured strung by Rackets & Runners) | 69 | 70 | 67 | 69 |
+| Beam | 22 / 23.5 / 22 mm | — | — | — | 23 / 26 / 24 mm |
+
+**How they differ**
+- **Power: the APD is much more powerful.**
+  - It has a thicker, boxier beam (23/26/24 vs 22/23.5/22 mm), a much stiffer layup (69–70 vs 64), and a 100 head vs 98.
+  - TW's testers called it "explosive from the baseline", adding "it's very stiff feeling, which is where all that extra power comes from".
+  - The Defyer is rated "Low-Medium" power.
+- **Spin and launch: the APD is the spin and launch frame.**
+  - Its 16x19 bed in a 100 sq in head is far more open than the Defyer's 16x20 in 98. That means more string movement, a higher launch and more spin.
+  - TW topspin score: 89.
+  - The Defyer is designed for a lower, more controlled flight.
+- **Comfort: the APD is clearly harsher.**
+  - It's 5–6 RA points stiffer, and TW's comfort score was 73, its weakest category ("not the most comfortable racquet I have played with").
+  - With a poly in it, it's the riskier frame for my wrist.
+- **Swingweight and plow-through: similar or lower.** Both are around 316–322 depending on version, so it would feel no heavier through the ball than my Defyer.
+- **Twistweight: about the same** (14.1 vs 13.8). Neither is especially stable on off-centre hits. The Cortex version was very low (12.7).
+- **Control: the Defyer is clearly better.** It has a denser bed, lower launch and less power, so I can swing out harder without the ball flying.
+
+**Summary**
+- The APD gives easy power, spin and height from a stiff, open frame. It suits moderate-to-fast swingers who want help from the racquet.
+- The Defyer is a control frame for players who supply their own pace and spin.
+- For me, with a sore wrist and a liking for low, controlled flight, the Defyer is the better fit. The APD would give more free spin than my old VCORE with Poly Tour Pro, but it's the stiffest frame in this whole comparison.
