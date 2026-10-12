@@ -15,6 +15,19 @@ Last updated: 2026-10-12
   - TWU has no lab data for the 1.25 gauge.
 - I want a controlled, predictable, lower launch, not a launchy or trampoline-y bed.
 
+## What I've learned about racquet specs
+
+My measured specs (all strung):
+
+| Frame | Weight | Swingweight | Verdict |
+|---|---|---|---|
+| Yonex VCORE (model not recorded) | 338 g | 320 | Liked it, but **wanted more plow-through** |
+| Wilson Pro Staff 97 v14 | 339 g | 326 | Liked it; plow-through was enough. Wrist pain, though |
+| Wilson Defyer 98 Pro, no lead | 330 g | 322 | Felt really nice on the wall; no match yet |
+
+- **Plow-through comes mostly from swingweight.** The VCORE and the Pro Staff weighed almost the same, but only the 326-swingweight Pro Staff felt like enough. So **my plow-through threshold is around 325+ swingweight**.
+- The Defyer at 322 is closer to the VCORE than to the Pro Staff, which is why the lead goes in.
+
 ## Why I switched frames: wrist pain
 
 - I liked the Pro Staff, but I've had **some wrist pain**, so I'm moving to a **softer, more arm-friendly setup**.
@@ -94,7 +107,7 @@ Things to watch:
 ## Lead plan
 
 - Plan: lead at **3 and 9 o'clock**.
-- **Revised starting point, because of the wrist: 1–2 g each side.**
+- **Revised starting point, because of the wrist: 1–2 g each side, aiming for the upper end (about 2 g each side).** That clears the 325+ plow-through threshold from my VCORE experience.
   - Rough estimate: about +2 swingweight per gram added in total, at 3 and 9.
   - From my measured 322, that would take it to about 326–330. That matches my Pro Staff's 326 swingweight without exceeding it.
   - The original idea was 2–3 g each side (about 330–334), but that would make it heavier-swinging than the Pro Staff I'm moving away from.
@@ -109,11 +122,23 @@ Things to watch:
   - keep 51/49;
   - drop back towards 50/48 if racquet-head speed suffers late in matches.
 
+## Previous string: Yonex Poly Tour Pro (used in the VCORE)
+
+- Soft and comfortable, but **not much help with spin**.
+- TWU lab data at 51 lbs:
+
+| Gauge | Stiffness (lb/in) | Spin potential | String/ball friction |
+|---|---|---|---|
+| 17 (1.20) | 188.6 | 5.2 (bottom fifth) | 0.481 |
+| 16 (1.30), older test | 191.5 | 3.4 | 0.374 |
+
+- My current O‑Toro Tour is far grippier (spin potential 7.7, friction 0.608), but also much firmer (217 lb/in).
+
 ## If the wrist needs a softer string
 
 Try these in order:
 1. Same string, lower tension: **O‑Toro Tour at 49/47**.
-2. **Solinco Confidential Soft 16L (1.25)**: Confidential's character, but softer. TWU lab at 51 lbs:
+2. **Solinco Confidential Soft 16L (1.25)**: Confidential's character, but softer. It's about as soft as Poly Tour Pro, with clearly more spin. TWU lab at 51 lbs:
    - stiffness 194 lb/in vs O‑Toro Tour's 217
    - tension loss 27.7%, still good
    - spin potential 6.5
