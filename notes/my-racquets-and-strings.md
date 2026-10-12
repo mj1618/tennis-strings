@@ -28,6 +28,35 @@ My measured specs (all strung):
 - **Plow-through comes mostly from swingweight.** The VCORE and the Pro Staff weighed almost the same, but only the 326-swingweight Pro Staff felt like enough. So **my plow-through threshold is around 325+ swingweight**.
 - The Defyer at 322 is closer to the VCORE than to the Pro Staff, which is why the lead goes in.
 
+## How my Defyer compares with typical player racquets
+
+Comparison set: TWU Racquet Comparison Tool, current frames, 97–100 sq in, 315 g and over (n=187). The percentiles are my own arithmetic on TWU's listed specs, not a published statistic.
+
+| Spec | Typical (middle 50%) | Median | My Defyer (no lead) | Where it sits |
+|---|---|---|---|---|
+| Strung weight | 318–326 g | 323 g | 330 g | about 84th percentile: heavy |
+| Swingweight | 320–328 | 324 | 322 | about 35th percentile: typical |
+| Twistweight | 14.3–15.1 | 14.6 | **13.8** | **about 7th percentile: low** |
+
+- **Expert guidance on swingweight (strung):**
+  - Tennisnerd: intermediate 310–325, advanced 320–340.
+  - Roman Prokes: today's sweet spot is 320–330.
+  - Tour pros are typically 340–360+.
+- **What it means:**
+  - Swingweight is normal for an intermediate-to-advanced player.
+  - The extra static weight is probably in the handle, since weight went up much more than swingweight.
+  - **Twistweight is low.** That means less stability on off-centre hits, which is bad news for a sore wrist.
+- **Stock twistweight (TWU) for my other frames:**
+  - Pro Staff 97 v14: **15.0**
+  - VCORE 98: 13.9–14.2
+  - Blade 98 v9: 14.1
+  - Pure Aero 98: 15.3–15.4
+  - Pure Strike 98: 15.6
+- **So the Defyer as it stands is less stable on off-centre hits than my Pro Staff.**
+- **Caveats:**
+  - TW doesn't publish a twistweight for the Defyer.
+  - Different measuring machines can disagree.
+
 ## Why I switched frames: wrist pain
 
 - I liked the Pro Staff, but I've had **some wrist pain**, so I'm moving to a **softer, more arm-friendly setup**.
@@ -107,10 +136,12 @@ Things to watch:
 ## Lead plan
 
 - Plan: lead at **3 and 9 o'clock**.
-- **Revised starting point, because of the wrist: 1–2 g each side, aiming for the upper end (about 2 g each side).** That clears the 325+ plow-through threshold from my VCORE experience.
+- **Revised starting point: 2 g each side.**
+  - Per TennCom, each 1 g at each of 3 and 9 adds about +0.3 twistweight and +3 swingweight.
+  - 2 g each side should therefore give about **328 swingweight and 14.4 twistweight**. That clears my 325+ plow-through threshold and lifts twistweight to near the median.
+  - Go to 3 g each side (about 331 / 14.7) only if the wrist is happy.
   - Rough estimate: about +2 swingweight per gram added in total, at 3 and 9.
-  - From my measured 322, that would take it to about 326–330. That matches my Pro Staff's 326 swingweight without exceeding it.
-  - The original idea was 2–3 g each side (about 330–334), but that would make it heavier-swinging than the Pro Staff I'm moving away from.
+  - My own rougher estimate (about +2 swingweight per gram added in total) gives a similar answer.
 - Why lead at 3 and 9 helps the wrist:
   - Higher twistweight means the head twists less on off-centre hits, so less torque reaches the wrist.
   - More mass in the hoop also soaks up more shock.
