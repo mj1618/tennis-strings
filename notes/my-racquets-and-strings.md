@@ -45,7 +45,7 @@ Published specs:
 
 | Weight | Swingweight | Twistweight |
 |---|---|---|
-| **326 g** | **322** | **13.8** |
+| **330 g** | **322** | **13.8** |
 
 ## Current string job — Defyer 98 Pro
 
