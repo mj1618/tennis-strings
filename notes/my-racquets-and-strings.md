@@ -57,6 +57,8 @@ Comparison set: TWU Racquet Comparison Tool, current frames, 97–100 sq in, 315
   - TW doesn't publish a twistweight for the Defyer.
   - Different measuring machines can disagree.
 
+**My twistweight preference: about 14.5.** Very high twistweight (15.5+) feels less manoeuvrable to me, and my Defyer's 13.8 is a bit low. When I add lead, the target is about 2–2.5 g at each of 3 and 9, giving about 14.4–14.6 twistweight and 328–329 swingweight (TennCom's per-gram figures).
+
 ## Why I switched frames: wrist pain
 
 - I liked the Pro Staff, but I've had **some wrist pain**, so I'm moving to a **softer, more arm-friendly setup**.

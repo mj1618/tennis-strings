@@ -120,10 +120,18 @@ Typical figures below are for current 97–100 sq in frames of 315 g or more in 
 
 ## What this means for me
 
-- **The Defyer's weak spot is twistweight, not swingweight.** That's the stability that protects my wrist on off-centre hits, so lead at 3 and 9 (1 g each side ≈ +0.3 twistweight, +3 swingweight) is the right fix if needed.
-- 2 g each side would take it to about 14.4 twistweight and 328 swingweight. That's around Whiteout 305 / Gravity Tour swingweight and the dataset median twistweight.
-- **If I ever switch frames for comfort plus stability,** the standouts are:
-  - **Head Gravity Tour:** flex 59, twistweight 15.5, swingweight 328. It's the softest player 98 with high twistweight.
-  - **Babolat Pure Strike 98 16x19:** flex 64, twistweight 15.6, swingweight 330.
-  - Both are stock-heavier-swinging than my Defyer, so no lead is needed.
+**My twistweight preference: about 14.5.** Very high twistweight (15.5+) feels less manoeuvrable to me. My Defyer's 13.8 is a bit low for stability and my wrist.
+
+- **To reach about 14.5, add about 2–2.5 g at each of 3 and 9.** Per TennCom, each gram at each of 3 and 9 adds about +0.3 twistweight and +3 swingweight.
+  - That gives about 14.4–14.6 twistweight and 328–329 swingweight.
+  - That clears my 325+ plow-through threshold, and stays under my Pro Staff's 15.0 twistweight.
+- **If I ever switch frames, the soft 97–98s near 14.5 twistweight are the best fit:**
+
+| Frame | Twistweight | Flex (RA) | Swingweight |
+|---|---|---|---|
+| Head Speed Tour | 14.2 | 61 | 325 |
+| Yonex Percept 97 | 14.6 | 60 | 315, needs lead for plow-through |
+| Solinco Whiteout 305 | 14.7 | 65 | 328 |
+
+  - The Gravity Tour (15.5) and Pure Strike 98 (15.6) are above my preferred twistweight.
 - These are spec-sheet comparisons only. Demo before buying.
