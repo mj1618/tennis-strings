@@ -135,6 +135,20 @@ Things to watch:
 
 ## Lead plan
 
+**Decision (2026-10-12): no lead for now.** Play matches at 330 g / 322 swingweight first and see if the plow-through is enough.
+
+If it isn't, the options for about +3 swingweight are:
+
+| Option | Weight | Swingweight | Twistweight | Balance |
+|---|---|---|---|---|
+| 1 g at 12 o'clock | 331 g | about 325 | 13.8 (no change) | slightly more head-heavy |
+| **1 g at each of 3 and 9 (preferred, for the wrist)** | 332 g | about 325 | about 14.1 | barely changes |
+
+- The extra gram for the 3-and-9 option is a non-issue: I've used 338–339 g frames before.
+- The 12 o'clock figures are my physics estimate. The 3-and-9 figures use TennCom's per-gram numbers.
+- The notes below were written before this decision.
+
+
 - Plan: lead at **3 and 9 o'clock**.
 - **Revised starting point: 2 g each side.**
   - Per TennCom, each 1 g at each of 3 and 9 adds about +0.3 twistweight and +3 swingweight.
