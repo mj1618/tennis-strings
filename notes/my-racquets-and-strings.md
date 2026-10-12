@@ -41,7 +41,7 @@ Published specs:
   - stock sweet spot on the small side;
   - responds very well to lead at 3 and 9.
 
-**My measured specs, fully strung (O‑Toro Tour, no lead yet):**
+**My measured specs, fully strung (O‑Toro Tour, no lead yet, dampener in place):**
 
 | Weight | Swingweight | Twistweight |
 |---|---|---|
