@@ -15,13 +15,25 @@ Last updated: 2026-10-12
   - TWU has no lab data for the 1.25 gauge.
 - I want a controlled, predictable, lower launch, not a launchy or trampoline-y bed.
 
+## Why I switched frames: wrist pain
+
+- I liked the Pro Staff, but I've had **some wrist pain**, so I'm moving to a **softer, more arm-friendly setup**.
+- Treat comfort as a hard constraint when picking strings, tension and lead.
+- If the pain persists, see a physio. Gear changes only help so much.
+
 ## Racquets
 
-### Wilson Pro Staff 97 v14 (reference frame)
-Published specs, not measured by me:
+### Wilson Pro Staff 97 v14 (previous frame)
+**My measured specs, strung:**
+
+| Weight | Swingweight |
+|---|---|
+| **339 g** | **326** |
+
+Published specs:
 - Head and pattern: 97 sq in, 16x19.
 - Weight and balance: 332 g strung, 7 pts head-light.
-- Swingweight 332.
+- Swingweight 332 (TW). Mine measures lower at 326 even though it's heavier, so mine is more head-light.
 - Stiffness (TW flex rating) 66.
 - Beam 21.5 mm.
 - Recommended tension 50–60 lbs.
@@ -47,6 +59,10 @@ Published specs:
 |---|---|---|
 | **330 g** | **322** | **13.8** |
 
+Compared with my Pro Staff:
+- **9 g lighter** and **4 points lower in swingweight**.
+- Softer frame: TW flex 64 vs 66; Rackets & Runners measured 61 RA strung.
+
 ## Current string job — Defyer 98 Pro
 
 - **Toroline O‑Toro Tour 17 (1.23)**, full bed.
@@ -54,6 +70,7 @@ Published specs:
 - Not pre-stretched.
 - Strung 2026-10-12, before any lead.
 - First hit (against the wall): **really nice**.
+- **No match played yet.** Check wrist comfort and late-match control after the first match.
 
 Why this string:
 - It's the closest match to Confidential among the options I had. In TWU's lab at 51 lbs:
@@ -77,15 +94,33 @@ Things to watch:
 ## Lead plan
 
 - Plan: lead at **3 and 9 o'clock**.
-- Starting point: 2–3 g each side.
+- **Revised starting point, because of the wrist: 1–2 g each side.**
   - Rough estimate: about +2 swingweight per gram added in total, at 3 and 9.
-  - From my measured 322, that would take it to about 330–334, which is the Pro Staff 97 v14's 332.
+  - From my measured 322, that would take it to about 326–330. That matches my Pro Staff's 326 swingweight without exceeding it.
+  - The original idea was 2–3 g each side (about 330–334), but that would make it heavier-swinging than the Pro Staff I'm moving away from.
+- Why lead at 3 and 9 helps the wrist:
+  - Higher twistweight means the head twists less on off-centre hits, so less torque reaches the wrist.
+  - More mass in the hoop also soaks up more shock.
 - **Re-measure after adding lead.**
 - Lead at 3 and 9 mainly raises twistweight (stability and sweet spot) for only a modest swingweight gain.
   - Rackets & Runners added lead there on the Defyer and said it "worked wonders"; their swingweight went 317 → ~324.
+- Add lead in small steps, and stop if the wrist complains. A higher swingweight also means more load on the wrist through each swing.
 - Tension guidance with lead:
   - keep 51/49;
   - drop back towards 50/48 if racquet-head speed suffers late in matches.
+
+## If the wrist needs a softer string
+
+Try these in order:
+1. Same string, lower tension: **O‑Toro Tour at 49/47**.
+2. **Solinco Confidential Soft 16L (1.25)**: Confidential's character, but softer. TWU lab at 51 lbs:
+   - stiffness 194 lb/in vs O‑Toro Tour's 217
+   - tension loss 27.7%, still good
+   - spin potential 6.5
+   - TW playtest comfort 8.0/10 vs Confidential's 63/100
+3. Other softer options now in the CSV, all around 190 lb/in:
+   - Toroline Super Toro 17
+   - Toroline Snapper 17
 
 ## String shortlist for the Defyer (ranked)
 
