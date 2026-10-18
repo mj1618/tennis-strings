@@ -191,6 +191,53 @@ If it isn't, the options for about +3 swingweight are:
 
 - My current O‑Toro Tour is far grippier (spin potential 7.7, friction 0.608), but also much firmer (217 lb/in).
 
+## Softer string from the strings I already have (decided 2026-10-18)
+
+O‑Toro Tour felt too stiff for my wrist for now.
+
+**Firmness evidence for my available strings:**
+- **TWU stringbed stiffness at 51 lbs (lb/in):**
+  - Razor Code 229
+  - O‑Toro Tour 217
+  - Razor Soft 212
+  - ALU Power 209 (older test protocol)
+  - ALU Power Rough 209
+  - Tour Sniper 206
+  - Hawk Touch 18 196 (1.20 gauge only)
+- **Racketpedia static stiffness (kg/mm, a pull test on the string alone):**
+
+| String | kg/mm |
+|---|---|
+| Razor Code | 1.28 |
+| Razor Soft | 1.15 |
+| O‑Toro Tour | 1.1 |
+| Hawk Touch | 1.05–1.15 |
+| Tour Sniper | 1.05 |
+| Caviar | 1.0 |
+| Wasabi | 0.95–1.0 |
+| Sync 1.25 | 0.95 |
+| ALU Power | 0.78 |
+| Slap 1.23 | 0.75 |
+| ALU Power Rough | 0.72 |
+
+**Picks:**
+1. **Toroline Wasabi 1.23, full bed, 49/47.** The least change from O‑Toro Tour, because it keeps the shaped-string spin.
+   - TW's playtester Troy said O‑Toro Tour is "firmer than Wasabi, which feels soft and a bit muted for a poly".
+   - Tennisnerd found it "comfortable and relatively soft for a shaped string", with excellent spin.
+   - Racketpedia: 0.95–1.0 vs O‑Toro Tour's 1.1.
+   - Caveats: no TWU lab data, and tension maintenance is only "average".
+2. **Luxilon ALU Power 1.25, full bed, 50/48.** The softest-feeling of the well-documented options.
+   - TW comfort score 77, against Confidential's 63.
+   - Racketpedia 0.78, among the softest of my options.
+   - It pockets well, with great control and touch.
+   - Caveats: less ball bite (string-to-ball friction 0.446) and fades after about 8–10 hours.
+
+**Avoid for now:**
+- Razor Code and Razor Soft. Despite its name, Razor Soft is "not a soft string" (Tennisnerd).
+- Caviar: firmer than Wasabi (TWE).
+- Hawk Touch: reviewers call it stiffer than shaped strings.
+- Sync and Slap: soft, but little data, and reports of early breakage (Sync) or going dead quickly (Slap).
+
 ## If the wrist needs a softer string
 
 Try these in order:
