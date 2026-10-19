@@ -346,6 +346,20 @@ The Pro Staff is low-powered but heavy (339 g, swingweight 326 as played), so th
    - The gut wears quickly against shaped poly mains.
    - The real gut comfort setup is gut *mains*, but that adds power and launch, which is the wrong direction for this frame.
 
+### ReString Zero in the Pro Staff (researched 2026-10-19)
+
+- **Nobody has published using Zero in a Pro Staff 97**, as far as I could find: not Tennisnerd (review or comments), not Talk Tennis search results, not retailer pages. ReString's site rate-limited the fetch. TWU has no lab data for Zero.
+- **What's known about Zero:**
+  - Six-sided, in 1.23 and 1.28.
+  - Tennisnerd: "a medium to soft poly", with comfort "around Yonex Poly Tour Pro" and "not too tough on the arm".
+  - Also from Tennisnerd: the ball "leaves the racquet fast", "pretty good bite", and "slightly lively".
+  - Tensions reported: Tennisnerd said "I could string it up to 55 lbs without issues" and playtested it at 47–50. One reader uses 45 lbs for arm comfort.
+- **Pro Staff 97 reviewers with polys:** ALU Power 1.25 at 52 and ALU Power Rough 1.30 at 53 (Tennis Companion). Wilson's v13 range is 50–60.
+- **My starting point if I try it: 1.23, 51/50.**
+  - Zero is softer than Confidential, so matching my old 51 still gives a softer bed.
+  - Its liveliness needs that tension to keep the heavy Pro Staff's ball in.
+  - Range 50–52: go up if balls fly, down if the wrist complains.
+
 ## Solinco Mach-10 in the Pro Staff 97 v14 (2026-10-19)
 
 - **Plan: Mach-10 1.25, mains 49 / crosses 48.**
