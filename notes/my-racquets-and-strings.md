@@ -325,6 +325,27 @@ The Pro Staff is low-powered but heavy (339 g, swingweight 326 as played), so th
 - If balls drop short, go to 49/48.
 - If the wrist complains, go to 49/48, or switch to Mach‑10 1.25 at 50/49.
 
+### Pro Staff crosses with Wasabi mains
+
+**Pick: Wasabi mains 50 / Luxilon ALU Power 1.25 crosses 49.**
+- **Why ALU Power in the crosses:**
+  - A shaped main with a round, smooth cross lets the mains slide and snap back. Toroline's own "Dreddy" hybrid uses that idea, pairing O‑Toro Tour with round, slick O‑Toro Snap crosses.
+  - ALU Power is the softest-feeling string I have: Racketpedia 0.78, TW comfort 77.
+  - It's control-oriented, with a "controlled, penetrating" flight (Tennisnerd), so it keeps the ball in.
+  - Tennisnerd says hybrids extend ALU Power's short playing life.
+- **Caveat:** no one has published a test of Wasabi with ALU Power. This pick is inferred from the principle above.
+
+**Ranking of the alternatives:**
+1. Wasabi / ALU Power: the pick above.
+2. **Full Wasabi, 50/49:** the simplest option and the most bite. Use it as the baseline if I want to judge Wasabi on its own.
+3. **Wasabi / ReString Sync:**
+   - Round and slick, with good snapback, and soft and elastic.
+   - But readers found it "a little too powerful", which works against keeping the heavy Pro Staff's ball in. One set broke at about 8 hours.
+4. **Wasabi / natural gut crosses: no.**
+   - The mains set the bed's character, so gut crosses add cost and power but not much comfort.
+   - The gut wears quickly against shaped poly mains.
+   - The real gut comfort setup is gut *mains*, but that adds power and launch, which is the wrong direction for this frame.
+
 ## Solinco Mach-10 in the Pro Staff 97 v14 (2026-10-19)
 
 - **Plan: Mach-10 1.25, mains 49 / crosses 48.**
