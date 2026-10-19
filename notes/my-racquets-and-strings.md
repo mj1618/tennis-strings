@@ -165,6 +165,28 @@ Things to watch:
   - It's unverified, so measure before and after.
 - **Measure balance** at the same time as weight, swingweight and twistweight next time.
 
+### Defyer lead options vs my Pro Staff (all as played; estimates except "measured")
+
+| Setup | Weight | Swingweight | Twistweight | Balance | Recoil weight* | Flex | Pattern |
+|---|---|---|---|---|---|---|---|
+| Defyer, no lead | 330 g (measured) | 322 (measured) | 13.8 (measured) | ≈32.2 cm, ≈6.5 pts HL | ≈159 | 64 | 16x20 |
+| Defyer + 1.5 g at each of 3 and 9 | ≈333 g | ≈326.5 | ≈14.25 | ≈32.4 cm, ≈6 pts HL | ≈159 | 64 | 16x20 |
+| Defyer + 2 g at each of 3 and 9 | ≈334 g | ≈328 | ≈14.4 | ≈32.5 cm, ≈5.7 pts HL | ≈159 | 64 | 16x20 |
+| Defyer + 2 g at each of 3 and 9 + 4 g handle | ≈338 g | ≈328 | ≈14.4 | ≈32.2 cm, ≈6.7 pts HL | ≈162 | 64 | 16x20 |
+| **Pro Staff 97 v14** | 339 g (measured) | 326 (measured) | 15.0 (TWU published) | ≈31.8 cm, ≈7.8 pts HL | ≈165 | 66 | 16x19 |
+
+How the estimates were made:
+- **Lead at 3 and 9:** TennCom's per-gram figures, +3 swingweight and +0.3 twistweight per 1 g at each of 3 and 9. Placed at about 55 cm from the butt.
+- **Handle weight:** placed at about 7.5 cm from the butt. It adds about 0 swingweight and 0 twistweight.
+- **Balance:** as-played balance is estimated from TW's stock strung balance (Defyer 32.39 cm, Pro Staff 32.0 cm), shifted for the overgrip and dampener.
+- *Recoil weight = swingweight − mass × (balance − 10 cm)², in kg·cm². It's a rough figure because balance wasn't measured.
+
+**Takeaways:**
+- 3-and-9 lead adds swingweight and twistweight without changing recoil weight.
+- Handle weight is what adds recoil (planted feel).
+- Even fully weighted, the Defyer stays lighter, lower in twistweight and lower in recoil than the Pro Staff.
+- **Choice: 1.5 g at each of 3 and 9, no handle weight.** It matches the Pro Staff's swingweight and keeps the Defyer's quicker, whippier feel.
+
 **Decision (2026-10-12): no lead for now.** Play matches at 330 g / 322 swingweight first and see if the plow-through is enough.
 
 If it isn't, the options for about +3 swingweight are:
