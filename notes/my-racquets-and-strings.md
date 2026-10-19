@@ -152,11 +152,17 @@ Things to watch:
 - **O‑Toro Tour at 51/49 is back as the Defyer string.** That's the tension originally chosen for the leaded frame.
 - The "softer string" sections below are now a fallback only.
 
-**Handle weight to counterbalance?** Not at first.
-- **What the 3-and-9 lead does to balance:** 4 g at about 55 cm from the butt moves the balance about 0.27 cm towards the head, roughly 1 point. So it goes from about 6 to about 5 pts head-light. That's small.
-- **Add 3.5–4 g under the grip near the butt cap only if** the leaded frame feels head-heavy or sluggish, the wrist tires, or I want a more solid, planted feel.
-  - That restores the original balance, at about 338 g as played. It's almost identical to my Pro Staff's 339 g / 326, but with more swingweight (≈328) and a softer frame.
-- **Handle weight barely changes swingweight** (about 0 at the butt end) and has "virtually zero effect on twistweight", per Tennisnerd. It does add recoil weight, i.e. a more planted feel at contact.
+**Keep it whippier than the Pro Staff: that's the point of the Defyer.** (Revised 2026-10-19.)
+
+- **Start with 1–1.5 g at each of 3 and 9, not 2–2.5 g.**
+  - Estimate: swingweight ≈325–326.5 and twistweight ≈14.1–14.25 as played (TennCom: +3 swingweight and +0.3 twistweight per 1 g at each of 3 and 9).
+  - That meets my 325+ plow-through threshold, stays at or below the Pro Staff's 326, and keeps twistweight well under its 15.0.
+  - 2 g each side (≈328) would swing heavier than the Pro Staff.
+- **No handle weight.** It barely changes swingweight, but adds static weight and recoil weight, making the frame more planted and less whippy.
+- **Step up a further 0.5 g each side only if it's still unstable** on off-centre hits.
+- **Alternative to test:** lead at 4 and 8 instead of 3 and 9.
+  - By my rough physics estimate, it gives slightly more twistweight per point of swingweight, because it's closer to the throat.
+  - It's unverified, so measure before and after.
 - **Measure balance** at the same time as weight, swingweight and twistweight next time.
 
 **Decision (2026-10-12): no lead for now.** Play matches at 330 g / 322 swingweight first and see if the plow-through is enough.
