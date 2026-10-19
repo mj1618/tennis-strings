@@ -246,3 +246,31 @@ The AeroPro Drive (APD) was renamed Pure Aero in 2016. Its main versions are Cor
 - The APD gives easy power, spin and height from a stiff, open frame. It suits moderate-to-fast swingers who want help from the racquet.
 - The Defyer is a control frame for players who supply their own pace and spin.
 - For me, with a sore wrist and a liking for low, controlled flight, the Defyer is the better fit. The APD would give more free spin than my old VCORE with Poly Tour Pro, but it's the stiffest frame in this whole comparison.
+
+## What people say online about the Defyer 98 Pro, vs my setup (2026-10-19)
+
+**Sources and how reliable they are:**
+- Main source: the Talk Tennis thread "Wilson Defyer 98 Pro V1", https://tt.tennis-warehouse.com/index.php?threads/wilson-defyer-98-pro-v1.801610/
+  - About 46 pages; 10 were sampled (pages 1, 10, 15, 20, 25, 30, 35, 40, 43, 46).
+  - Quotes are near-verbatim because they came through a summarising fetch tool.
+- Also: TW customer reviews, the TW playtest, TennCom, Tennisnerd and Tennis Tribe.
+- Reddit was blocked.
+
+| Topic | What people report | My setup / plan | Verdict |
+|---|---|---|---|
+| Stability stock | The most common complaint: "fairly unplayable stock", "unstable in stock form due to low twistweight", less stable than the Pro Staff 97 v14 on volleys and blocks. A minority finds it stable enough | My first hit felt unstable without lead | **Matches** |
+| Twistweight | No lab figure. Forum users measured 12.5–13.5 (one: 12.7 leaded, with his Blade 100 at 13.6). One retailer lists 14.9 unstrung (method unclear) | Mine measured 13.8 as played | **Matches "low"**; different machines read differently |
+| How much lead | 2–4 g in the hoop is the norm. 3 g at 3/9 → swingweight about 324 and more forgiving. 4 g at 3/9 felt "a tad too sluggish" to one user. Others prefer 10/2. One user found 4/8 "by far the best setup" | 1.5 g each at 3/9 (3 g), or 2 g each at 4/8 | **Matches**; start at 3 g |
+| Does lead kill the whip? | Yes, for a vocal minority: "gets bogged down" with hoop lead; some removed it; it made the bed feel stiffer. Others found 2 g at 3/9 made it "softer, more powerful" | Light lead, no handle weight, swingweight kept at or below the Pro Staff | **Supports going light** |
+| Comfort | Mostly positive, especially compared with the Pure Aero 98: "arm hasn't felt this good", "feel nothing in the arm and wrist". A few reports of elbow pain or "deceptively stiff". One user measured RA 68–69 on six frames, against TW's 64 | Wrist is a priority | **Mostly good, but frames vary.** Measure RA if possible |
+| Tension | String-sensitive. Players say it "takes higher tension very well" and works "as long as the tension is on the higher side". Raising Hyper‑G tension fixed long balls for one user | O‑Toro Tour 51/49, kept lower for the wrist | **Lower than the crowd.** If balls fly long, go up 1–2 lbs before changing string |
+| O‑Toro Tour | A D1 college player strung it at 53/51. One user found O‑Toro crosses at 54 "too high and dead" | 51/49 | **In range** |
+| Mach‑10 | One hybrid: Mach‑10 1.25 / Lynx Tour at 24/23 kg (≈53/51), "much more lively" than RPM Blast | Mach‑10 is planned for the Pro Staff, not the Defyer | Little Defyer data |
+| Confidential | Mixed: more control and pocketing for some; "plastic and dead" after about 6 h, or "added nothing", for others | Not used in the Defyer | n/a |
+| 16x20 pattern / launch | Plays "more 18x20 feeling than 16x19", tighter spacing, launch "on the lower side", consistent | Chose a spin-friendly shaped string to compensate | **Matches** |
+| Who it suits | Fast, full-swing topspin players: "a stick that's meant to be swung fast". Not for blockers, counterpunchers or high-level doubles volleyers | I swing fast | **Fits me** |
+
+**Takeaways for me:**
+1. Light lead and no handle weight are what the community supports for keeping the frame fast. Stay at 3 g and step up only if it's still unstable.
+2. The crowd strings it tighter (53–55). My 51/49 is a deliberate wrist compromise. If depth control suffers, raise it 1–2 lbs.
+3. Frame-to-frame variation is real: a reported RA of 68–69, and stock swingweight 289–296 unstrung across six frames. That's another reason to measure my own frame after leading.
