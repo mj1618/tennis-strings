@@ -187,6 +187,29 @@ How the estimates were made:
 - Even fully weighted, the Defyer stays lighter, lower in twistweight and lower in recoil than the Pro Staff.
 - **Choice: 1.5 g at each of 3 and 9, no handle weight.** It matches the Pro Staff's swingweight and keeps the Defyer's quicker, whippier feel.
 
+### 3 and 9 vs 4 and 8 (estimates, as played)
+
+How the estimates were made:
+- **Geometry is my own estimate**, chosen to match TennCom's per-gram figures for 3 and 9.
+  - 3 and 9: about 48.7 cm from the butt, 12.25 cm off the centre line.
+  - 4 and 8: about 42 cm from the butt, 11.4 cm off the centre line.
+- **Per gram added in total:**
+  - 3 and 9: about +1.5 swingweight and +0.15 twistweight.
+  - 4 and 8: about +1.0 swingweight and +0.13 twistweight.
+
+| Setup | Weight | Swingweight | Twistweight | Balance | Recoil |
+|---|---|---|---|---|---|
+| No lead (measured) | 330 g | 322 | 13.8 | ≈32.2 cm, ≈6.6 pts HL | ≈159 |
+| 1.5 g at each of 3 and 9 | ≈333 g | ≈326.5 | ≈14.25 | ≈32.35 cm, ≈6.1 pts HL | ≈160 |
+| 1.5 g at each of 4 and 8 | ≈333 g | ≈325 | ≈14.2 | ≈32.3 cm, ≈6.3 pts HL | ≈160 |
+| 1.75 g at each of 4 and 8 (same twistweight as 1.5 g at 3 and 9) | ≈333.5 g | ≈325.5 | ≈14.25 | ≈32.3 cm, ≈6.3 pts HL | ≈160 |
+| 2 g at each of 4 and 8 | ≈334 g | ≈326 | ≈14.3 | ≈32.3 cm, ≈6.2 pts HL | ≈160 |
+| Pro Staff 97 v14 | 339 g | 326 | 15.0 | ≈31.8 cm, ≈7.8 pts HL | ≈165 |
+
+- **4 and 8 gives about 20% more twistweight per point of swingweight**, and shifts balance less. For the same stability it saves only about 1 swingweight point. That's within measurement noise, so it's a small edge, not a big one.
+- **Option: 2 g at each of 4 and 8.** That gives about 14.3 twistweight at the Pro Staff's swingweight (≈326). It's the most stability available without swinging heavier than the Pro Staff.
+- **Alternative: 1.5 g at each of 3 and 9.** Simpler, and almost the same result.
+
 **Decision (2026-10-12): no lead for now.** Play matches at 330 g / 322 swingweight first and see if the plow-through is enough.
 
 If it isn't, the options for about +3 swingweight are:
