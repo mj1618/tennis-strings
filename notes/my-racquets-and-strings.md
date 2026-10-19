@@ -152,6 +152,13 @@ Things to watch:
 - **O‑Toro Tour at 51/49 is back as the Defyer string.** That's the tension originally chosen for the leaded frame.
 - The "softer string" sections below are now a fallback only.
 
+**Handle weight to counterbalance?** Not at first.
+- **What the 3-and-9 lead does to balance:** 4 g at about 55 cm from the butt moves the balance about 0.27 cm towards the head, roughly 1 point. So it goes from about 6 to about 5 pts head-light. That's small.
+- **Add 3.5–4 g under the grip near the butt cap only if** the leaded frame feels head-heavy or sluggish, the wrist tires, or I want a more solid, planted feel.
+  - That restores the original balance, at about 338 g as played. It's almost identical to my Pro Staff's 339 g / 326, but with more swingweight (≈328) and a softer frame.
+- **Handle weight barely changes swingweight** (about 0 at the butt end) and has "virtually zero effect on twistweight", per Tennisnerd. It does add recoil weight, i.e. a more planted feel at contact.
+- **Measure balance** at the same time as weight, swingweight and twistweight next time.
+
 **Decision (2026-10-12): no lead for now.** Play matches at 330 g / 322 swingweight first and see if the plow-through is enough.
 
 If it isn't, the options for about +3 swingweight are:
