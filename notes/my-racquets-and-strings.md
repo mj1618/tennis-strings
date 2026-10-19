@@ -238,6 +238,19 @@ O‑Toro Tour felt too stiff for my wrist for now.
 - Hawk Touch: reviewers call it stiffer than shaped strings.
 - Sync and Slap: soft, but little data, and reports of early breakage (Sync) or going dead quickly (Slap).
 
+## Solinco Mach-10 in the Defyer (2026-10-19)
+
+- **What it is:** a five-sided co-poly with "CloudFORM" softening agent. It was developed as "Confidential 4.0" / "10jx", is marketed as powerful, and comes in 1.15, 1.20, 1.25 and 1.30.
+- **Plan: 1.25 or 1.20 at 48 mains / 46 crosses.**
+  - TW customers who chose it for arm comfort strung 47.5–49.5 lbs; one used 51/49 in a VCORE and was pain-free.
+  - Tennisnerd recommends low tension for soft polys and found it "soft on the arm", powerful, with surprisingly good snapback. It also holds tension better than Solinco's other soft strings.
+  - Its extra power suits the low-powered Defyer. Tennisnerd found it too powerful in a Blackout 300 but good in low-power frames.
+- **Lab conflict:** TWU's only entry, Mach 10 16 (1.30), measured **222 lb/in**. That's as firm as Confidential 1.30, and firmer than O‑Toro Tour (217).
+  - Tension loss 26.3%, spin potential 6.0, string-to-ball friction 0.486.
+  - Reviews say it's soft, so either the thick gauge or the test disagrees with them.
+  - **Avoid the 1.30 for now.**
+- **If it's still harsh, go down a gauge (1.20) or 1 lb more.** Also note one TW customer found it "harsh on elbow" at 47 lbs.
+
 ## If the wrist needs a softer string
 
 Try these in order:
