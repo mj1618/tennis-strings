@@ -147,6 +147,11 @@ Things to watch:
 
 ## Lead plan
 
+**Update 2026-10-19:** after playing it, I think the Defyer's problem was **instability from having no lead, not the O‑Toro Tour string**.
+- **The lead goes in now:** 2–2.5 g at each of 3 and 9, targeting about 14.4–14.6 twistweight and 328–329 swingweight as played.
+- **O‑Toro Tour at 51/49 is back as the Defyer string.** That's the tension originally chosen for the leaded frame.
+- The "softer string" sections below are now a fallback only.
+
 **Decision (2026-10-12): no lead for now.** Play matches at 330 g / 322 swingweight first and see if the plow-through is enough.
 
 If it isn't, the options for about +3 swingweight are:
@@ -237,6 +242,20 @@ O‑Toro Tour felt too stiff for my wrist for now.
 - Caviar: firmer than Wasabi (TWE).
 - Hawk Touch: reviewers call it stiffer than shaped strings.
 - Sync and Slap: soft, but little data, and reports of early breakage (Sync) or going dead quickly (Slap).
+
+## Solinco Mach-10 in the Pro Staff 97 v14 (2026-10-19)
+
+- **Plan: Mach-10 1.25, mains 49 / crosses 48.**
+  - That's 2 lbs under my old Confidential 51 in this frame, to go easier on the wrist. The Pro Staff is the stiffer frame: flex 66 vs the Defyer's 64.
+  - Mach-10 is softer and more powerful than Confidential, according to reviews; it was developed as "Confidential 4.0".
+  - The Pro Staff is a low-power, high-swingweight frame (mine is 339 g / 326 as played; twistweight 15.0 per TWU), so it can take the extra power without the ball flying.
+  - Tennisnerd liked Mach-10 best in low-power control frames (Prestige MP, Whiteout).
+  - For 16x19 a 1 lb lower cross is enough. The 2 lb drop was for the Defyer's 16x20.
+- **Tension range:** 49 is inside TW's current 47–57 for this frame and 1 lb under the 50–60 quoted in TW's review.
+- **Gauge:** avoid 1.30. TWU measured it at 222 lb/in, as firm as Confidential 1.30.
+- **Adjusting:**
+  - Wrist sore → 48/47, or the 1.20 gauge.
+  - Balls flying long → 50/49.
 
 ## Solinco Mach-10 in the Defyer (2026-10-19)
 
