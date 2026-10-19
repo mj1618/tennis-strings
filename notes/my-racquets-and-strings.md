@@ -301,6 +301,30 @@ O‑Toro Tour felt too stiff for my wrist for now.
 - Hawk Touch: reviewers call it stiffer than shaped strings.
 - Sync and Slap: soft, but little data, and reports of early breakage (Sync) or going dead quickly (Slap).
 
+## Pro Staff: Wasabi vs Mach-10 (2026-10-19)
+
+**Pick: Toroline Wasabi 1.23, full bed, 50 mains / 49 crosses.**
+
+The Pro Staff is low-powered but heavy (339 g, swingweight 326 as played), so the ball comes off with plenty of mass. It needs **bite and a controlled, lower flight**, not more power.
+
+**Wasabi:**
+- Square, with four sharp edges.
+- TW calls it "one of the firmer and more control-oriented" Toroline strings.
+- Tennisnerd: excellent spin, the ball "seems to dip in", comfortable and relatively soft for a shaped string.
+- TW's playtester Troy says it's softer and more muted than O‑Toro Tour. A TW buyer says it has slightly less power than Solinco strings.
+- Caveats: no lab data, and tension maintenance is only "average".
+
+**Mach‑10:**
+- Five-sided.
+- Solinco markets it as "engineered for power", with a "higher power level". Tennisnerd found it lively, and too powerful in a Blackout 300.
+- TWU (1.30 gauge) puts its spin in the middle of the pack: string-to-ball friction 0.486 (41st percentile), spin potential 6.0. One TW buyer said 1.15 "utterly fails" on spin compared with Hyper‑G.
+- More first-hand arm-comfort reports than Wasabi, and holds tension better.
+- Its main selling point is power, which this frame doesn't need.
+
+**Tension:** 50/49 is 1 lb under my old Confidential 51. Wasabi is already softer, and the Pro Staff's mass needs some tension to keep the ball in.
+- If balls drop short, go to 49/48.
+- If the wrist complains, go to 49/48, or switch to Mach‑10 1.25 at 50/49.
+
 ## Solinco Mach-10 in the Pro Staff 97 v14 (2026-10-19)
 
 - **Plan: Mach-10 1.25, mains 49 / crosses 48.**
