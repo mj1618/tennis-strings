@@ -346,6 +346,32 @@ The Pro Staff is low-powered but heavy (339 g, swingweight 326 as played), so th
    - The gut wears quickly against shaped poly mains.
    - The real gut comfort setup is gut *mains*, but that adds power and launch, which is the wrong direction for this frame.
 
+### ReString Slap in the Pro Staff (2026-10-20)
+
+**Why try it:** Wasabi in practice gave me **little snapback or spin**.
+
+**What's known about Slap:**
+- Six-sided, made from the same material as Zero, in 17G/1.23 and 16G/1.28.
+- Racketpedia static stiffness: 0.75 (1.23) and 0.85 (1.28). That's soft, against Confidential's 1.0 and Wasabi's 0.95–1.0.
+- ReString's own ratings: spin 10, power 9, control 8, comfort 8.
+- **Brand/retailer tension guidance:** string it **about 2 lbs lower than your usual poly**, range 43–55.
+- Tennisnerd (Speed MP):
+  - "extremely easy access to spin" and fast snapback
+  - "launch angle was a little higher than … expected"
+  - "a bit tinny and hollow"
+  - "less predictable on flatter ball trajectories"
+  - "becomes slightly deadened after a few hours"
+- Retailers claim it holds tension better than Zero and is forgiving on mishits. This isn't independently measured.
+
+**Plan: 1.23, mains 50 / crosses 49.**
+- That's 1 lb under my old Confidential 51, halfway to ReString's −2 guidance. The heavy Pro Staff needs a controlled, low flight, and Slap launches higher.
+- Use 1.23 for bite and snapback. 1.28 is more durable and a bit more controlled, but has less bite.
+- **Adjusting:**
+  - Balls flying long → 51/50.
+  - Wrist sore → 49/48 (the brand's −2).
+  - Spin great but launch too high → consider Slap mains with ALU Power crosses at 50/49. That's untested.
+- **Watch:** how fast it goes dead. Log the hours.
+
 ### ReString Zero in the Pro Staff (researched 2026-10-19)
 
 - **Nobody has published using Zero in a Pro Staff 97**, as far as I could find: not Tennisnerd (review or comments), not Talk Tennis search results, not retailer pages. ReString's site rate-limited the fetch. TWU has no lab data for Zero.
